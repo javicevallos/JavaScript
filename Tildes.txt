@@ -1,0 +1,36 @@
+Carácter 	HTML 	Unicode
+Á 	&Aacute; 	\u00C1
+á 	&aacute; 	\u00E1
+É 	&Eacute; 	\u00C9
+é 	&eacute; 	\u00E9
+Í 	&Iacute; 	\u00CD
+í 	&iacute; 	\u00ED
+Ó 	&Oacute; 	\u00D3
+ó 	&oacute; 	\u00F3
+Ú 	&Uacute; 	\u00DA
+ú 	&uacute; 	\u00FA
+Ü 	&Uuml; 	\u00DC
+ü 	&uuml; 	\u00FC
+Ṅ 	&Ntilde; 	\u00D1
+ñ 	&ntilde; 	\u00F1
+
+Otros caracteres especiales muy usados son los siguientes:
+Carácter 	HTML 	Unicode
+& 	&amp; 	\u0022
+< 	&lt; 	\u003C
+> 	&gt; 	\u003E
+í 	&itilde; 	\u00ED
+  	&nbsp; 	\u00A0
+“ 	&quot; 	\u0022
+‘ 	&apos; 	\u0027
+© 	&copy; 	\u00A9
+® 	&reg; 	\u00AE
+€ 	&euro; 	\u20AC
+° 	&deg; 	\u00B0
+² 	&sup2; 	\u00B2
+³ 	&sup3; 	\u00B3
+µ 	&micro; 	\u00B5
+¼ 	&frac14; 	\u00BC
+½ 	&frac12; 	\u00BD
+¾ 	&frac34; 	\u00BE
+π 	&pi; 	\u03C0
